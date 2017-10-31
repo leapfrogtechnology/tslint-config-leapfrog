@@ -1,0 +1,15 @@
+{
+  "extends": [
+    "./config.json", "tslint-react"
+  ],
+  "rules": {
+    "jsx-boolean-value": false,
+    "jsx-no-lambda": false,
+    "jsx-no-multiline-js": false,
+    "quotemark": [
+      true,
+      "single",
+      "jsx-double"
+    ]
+  }
+}

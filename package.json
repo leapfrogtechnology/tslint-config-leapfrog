@@ -2,7 +2,7 @@
   "name": "tslint-config-leapfrog",
   "version": "1.0.0",
   "description": "TSLint config for TypeScript projects at Leapfrog",
-  "main": "tslint-config.json",
+  "main": "config.json",
   "repository": "git@github.com:leapfrogtechnology/tslint-config-leapfrog.git",
   "author": "Saugat Acharya <mesaugat@gmail.com>",
   "license": "MIT",
@@ -17,6 +17,7 @@
     "tslint-config"
   ],
   "peerDependencies": {
-    "tslint": "^5.8.0"
+    "tslint": "^5.8.0",
+    "tslint-react": "^3.2.0"
   }
 }

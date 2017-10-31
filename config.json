@@ -27,6 +27,7 @@
       true,
       120
     ],
+    "member-access": false,
     "no-console": [
       true,
       "debug",
