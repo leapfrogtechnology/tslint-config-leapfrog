@@ -1,7 +1,8 @@
 {
   "defaultSeverity": "error",
   "extends": [
-    "tslint:recommended"
+    "tslint:recommended",
+    "tslint-consistent-codestyle"
   ],
   "jsRules": {
     "object-literal-sort-keys": false
@@ -42,9 +43,13 @@
       true,
       "ignore-params"
     ],
+    "no-collapsible-if": true,
+    "no-else-after-return": true,
     "no-string-literal": false,
     "no-switch-case-fall-through": true,
+    "no-unnecessary-else": true,
     "object-literal-sort-keys": false,
+    "object-shorthand-properties-first": true,
     "ordered-imports": false,
     "quotemark": [
       true,
