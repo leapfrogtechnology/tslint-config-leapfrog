@@ -51,7 +51,13 @@
       "single"
     ],
     "switch-default": true,
-    "trailing-comma": false,
+    "trailing-comma": [
+      true,
+      {
+        "multiline": "never",
+        "singleline": "never"
+      }
+    ],
     "triple-equals": [
       true,
       "allow-null-check"
