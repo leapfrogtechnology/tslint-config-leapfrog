@@ -33,6 +33,7 @@
       120
     ],
     "member-access": false,
+    "newline-before-return": true,
     "no-console": [
       true,
       "debug",
