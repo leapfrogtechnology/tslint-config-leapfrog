@@ -3,7 +3,7 @@
 [![npm version](https://badge.fury.io/js/tslint-config-leapfrog.svg)](https://badge.fury.io/js/tslint-config-leapfrog)
 [![downloads](http://img.shields.io/npm/dt/tslint-config-leapfrog.svg)](https://npmjs.org/package/tslint-config-leapfrog)
 
-A set of [TSLint](https://palantir.github.io/tslint/) rules for TypeScript projects at Leapfrog.
+Set of [TSLint](https://palantir.github.io/tslint/) rules for TypeScript projects at Leapfrog.
 
 ## Requires
 
@@ -37,3 +37,7 @@ For projects using React, include `tslint-config-leapfrog/react` which contains 
   ]
 }
 ```
+
+## License
+
+[MIT](LICENSE)
