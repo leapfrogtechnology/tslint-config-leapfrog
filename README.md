@@ -5,6 +5,8 @@
 
 Set of [TSLint](https://palantir.github.io/tslint/) rules for TypeScript projects at Leapfrog.
 
+**`tslint-config-leapfrog` adds rules from `tslint-consistent-codestyle` and `tslint-react`.**
+
 ## Requires
 
 * TypeScript **>= 2.5.0**
