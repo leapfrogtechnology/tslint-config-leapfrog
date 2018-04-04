@@ -10,6 +10,10 @@
   "bugs": {
     "url": "https://github.com/leapfrogtechnology/tslint-config-leapfrog/issues"
   },
+  "files": [
+    "react.json",
+    "tslint.json"
+  ],
   "keywords": [
     "rules",
     "tslint",
@@ -28,7 +32,7 @@
     "typescript": "^2.7.1"
   },
   "peerDependencies": {
-    "tslint": "^5.8.0",
-    "typescript": "^2.5.0"
+    "tslint": ">= 5.8.0",
+    "typescript": ">= 2.5.0"
   }
 }
