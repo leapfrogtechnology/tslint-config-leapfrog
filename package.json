@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-leapfrog",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "TSLint config for TypeScript projects at Leapfrog",
   "main": "tslint.json",
   "repository": "git@github.com:leapfrogtechnology/tslint-config-leapfrog.git",
