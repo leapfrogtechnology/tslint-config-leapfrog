@@ -53,6 +53,7 @@
     "no-string-literal": false,
     "no-switch-case-fall-through": true,
     "no-unnecessary-else": true,
+    "no-return-await": true,
     "object-literal-sort-keys": false,
     "object-shorthand-properties-first": true,
     "ordered-imports": false,
