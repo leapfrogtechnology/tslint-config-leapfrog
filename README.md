@@ -3,9 +3,11 @@
 [![npm version](https://badge.fury.io/js/tslint-config-leapfrog.svg)](https://badge.fury.io/js/tslint-config-leapfrog)
 [![downloads](http://img.shields.io/npm/dt/tslint-config-leapfrog.svg)](https://npmjs.org/package/tslint-config-leapfrog)
 
+> **⚠️ TSLint is deprecated. We don't recommend using this configuration anymore, use [eslint-config-leapfrog](https://github.com/leapfrogtechnology/eslint-config-leapfrog) instead.**
+
 Set of [TSLint](https://palantir.github.io/tslint/) rules for TypeScript projects at Leapfrog.
 
-**`tslint-config-leapfrog` adds rules from `tslint-consistent-codestyle` and `tslint-react`.**
+`tslint-config-leapfrog` adds rules from `tslint-consistent-codestyle` and `tslint-react`.
 
 ## Requires
 
